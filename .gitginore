@@ -1,0 +1,16 @@
+# Dependencies
+
+node_modules/
+
+# Production build
+
+/lib
+
+# Package files
+
+\*.tgz
+
+# Cache
+
+.npm
+.eslintcache

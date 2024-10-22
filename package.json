@@ -1,0 +1,37 @@
+{
+  "name": "use-text-selections",
+  "version": "0.0.1",
+  "description": "A React hook for detecting and handling text selection on the screen",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "babel src -d lib",
+    "prepare": "npm run build"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.0",
+    "@babel/core": "^7.22.0",
+    "@babel/preset-env": "^7.22.0",
+    "@babel/preset-react": "^7.22.0",
+    "eslint": "^8.0.0",
+    "eslint-plugin-react": "^7.0.0",
+    "eslint-plugin-react-hooks": "^4.0.0"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "text-selection",
+    "selection"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JAYKALIA007/useTextSelection"
+  },
+  "author": "Jay Kalia",
+  "license": "MIT"
+}
