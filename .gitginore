@@ -9,8 +9,3 @@ lib/
 # Package files
 
 \*.tgz
-
-# Cache
-
-.npm
-.eslintcache
