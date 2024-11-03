@@ -118,6 +118,10 @@ function TextSelector() {
 - React 16.8.0 or higher (hooks support)
 - DOM environment
 
+## Future plans
+
+- Making this library agnostic to work with all JavaScript-based libraries and frameworks.
+
 ## License
 
 MIT © Jay Kalia
